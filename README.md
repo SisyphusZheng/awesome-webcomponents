@@ -270,6 +270,10 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Lego site](https://lego.js.org) native web-components made light and reactive
 * [Lego repository](https://github.com/Polight/lego)
 
+### LessJS
+
+* [LessJS](https://lessjs.com) Minimal-incremental, progressive fullstack framework built on Web Standards · Less is More
+  
 ## Components
 
 *Some Web Components*
